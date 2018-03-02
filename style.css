@@ -1,1 +1,15 @@
+body {
+  background-color: #cce6ff;
+  color:black;
+  font-family: Georgia, serif;
+
+}
+.left {
+  float: left;
+  width: 50%;
+}
+.right {
+  float:right;
+  width: 50%;
+}
 
